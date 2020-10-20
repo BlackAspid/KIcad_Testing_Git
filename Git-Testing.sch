@@ -68,4 +68,17 @@ F 3 "~" H 3100 1900 50  0001 C CNN
 	1    3100 1900
 	-1   0    0    -1  
 $EndComp
+$Comp
+L PMIC~-~Referencias~de~voltaje:X60008BIS8 PMIC?
+U 1 1 5F8E943E
+P 1950 2100
+F 0 "PMIC?" H 1950 2600 50  0000 C CNN
+F 1 "X60008BIS8" H 1950 1650 50  0000 C CNN
+F 2 "" H 1500 2350 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Intersil%20PDFs/X60008B-50.pdf" H 1500 2350 50  0001 C CNN
+F 4 "X60008BIS8-50T1-ND" H 1950 1600 50  0001 C CNN "Número de pieza de Digi-Key"
+F 5 "Renesas Electronics America Inc" H 1950 2650 50  0001 C CNN "Fabricante"
+	1    1950 2100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
