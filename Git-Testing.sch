@@ -175,4 +175,12 @@ Wire Wire Line
 Connection ~ 1600 1900
 Wire Wire Line
 	1600 1900 1300 1900
+Wire Notes Line rgb(255, 0, 0)
+	500  2700 4650 2700
+Wire Notes Line rgb(255, 0, 0)
+	4650 2700 4650 1350
+Wire Notes Line rgb(255, 0, 0)
+	4650 1350 500  1350
+Wire Notes Line rgb(255, 0, 0)
+	500  1350 500  2700
 $EndSCHEMATC
